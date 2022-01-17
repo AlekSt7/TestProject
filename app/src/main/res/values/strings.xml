@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="title_main">Персонажи</string>
+    <string name="title_favourites">Избранное</string>
+    <string name="title_character">Страница персонажа</string>
+    <string name="error_text">Возникла ошибка при загрузке</string>
+    <string name="unknown">unknown</string>
+    <string name="add_to_favourites">Добавлено в избранное</string>
+</resources>

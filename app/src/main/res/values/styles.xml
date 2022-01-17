@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Для закругления краев ImageView-->
+    <style name="SpecifiCornerRounded" parent="">
+        <item name="cornerSizeTopLeft">@dimen/corner</item>
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerSizeBottomLeft">@dimen/corner</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+    </style>
+
+</resources>
